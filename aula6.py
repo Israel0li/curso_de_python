@@ -16,3 +16,5 @@ print(type(float('1.0') + 1))
 # bool:
 print(10 == 10) # true
 print(10 == -10) # false
+
+# Feito em 20/12/24

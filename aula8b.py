@@ -13,4 +13,6 @@ print(f'Seu nome completo é {nome} {nome2} {sobrenome}.')
 print(f'Idade: {idade}')
 print(f'Ano de nascimento: {ano_nascimento}')
 print(f'É maior de idade? {maior_idade}')
-print(f'Altura em metros: {float(altura_metros)}')    
+print(f'Altura em metros: {float(altura_metros)}')
+
+# Feito em 22/12/24

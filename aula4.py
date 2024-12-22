@@ -19,3 +19,5 @@
 print(type('Israel'), type('2024'), type("-2.9") ) # String
 print(type(27), type(-7), type(0))  # Int
 print(type(1.1), type(-12.5), type(0.0)) # Float
+
+# Feito em 18/12/24

@@ -15,3 +15,5 @@ maior_de_idade = 18
 resul_idade_maior = idade >= maior_de_idade
 print('Nome:', nome_completo,  'Idade:', idade)
 print('É de maior?', resul_idade_maior)
+
+# Feito em 21/12/24

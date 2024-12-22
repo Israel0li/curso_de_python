@@ -11,3 +11,5 @@ print(type(True))
 print(type(False))
 print(type(10 == 10))
 print(type(10 == 11))
+
+# Feito em 19/12/24

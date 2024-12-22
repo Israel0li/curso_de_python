@@ -13,4 +13,6 @@ print('Seu nome completo é', nome, nome2, sobrenome)
 print('Idade:', idade)
 print('Ano de nascimento:', ano_nascimento)
 print('É maior de idade?', maior_idade)
-print('Altura em metros:', float(altura_metros))    
+print('Altura em metros:', float(altura_metros))
+
+# Feito em 22/12/24

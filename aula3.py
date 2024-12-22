@@ -19,3 +19,5 @@ print("Israel \"Olivera\"")
 
 # r
 print(r"Israel \"Olivera\"")
+
+# Feito em 17/12/24
