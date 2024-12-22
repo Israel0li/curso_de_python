@@ -2,7 +2,7 @@ nome = input('Qual é o seu nome? ')
 nome2 = input('Qual é o seu segundo nome? ')
 sobrenome = input('Qual é o seu sobrenome? ')
 idade = input('Sua idade? ')
-ano_nascimento = input('Qual ano você nasceu? ')
+ano_nascimento = 2024 - int(idade)
 altura_metros = input('Quantos metros de altura você tem? ')
 maior_idade = int(idade) >= 18
 
