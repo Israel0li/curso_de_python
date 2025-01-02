@@ -21,4 +21,4 @@ else:
 
 print('Fora do if')
 
-# Feite em 01/01/25
+# Feite em 01/01/25 Primeiro código do ano 🎉✨✨
